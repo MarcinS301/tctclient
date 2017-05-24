@@ -16,5 +16,10 @@ namespace tctclient
         {
             InitializeComponent();
         }
+
+        private void numericUPdown_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
